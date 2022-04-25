@@ -9,3 +9,6 @@ Upcoming seminars:
 
 - **27th April 2022, 9am PT, noon ET, 6pm CEST**: *Galaxy SED Forward Modeling for Photometric Surveys* with guests [Andrew P. Hearin](https://www.anl.gov/profile/andrew-p-hearin), [ChangHoon Hahn](https://changhoonhahn.github.io/), and [Justin Alsing](https://scholar.google.co.uk/citations?user=ICPFL8AAAAAJ&hl=en). 
 
+
+Past seminars:
+- **30th March 2022, 8am PT, 11am ET, 5pm CEST**: *Perspectives for Bayesian pipelines in DESC* with guests [Jens Jasche](https://www.su.se/english/profiles/jeja4711-1.368011) and [Carles Sánchez](https://carlessanchezalonso.github.io)
