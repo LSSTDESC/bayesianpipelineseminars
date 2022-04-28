@@ -7,7 +7,7 @@ To join the seminar, follow this [zoom link](https://stanford.zoom.us/j/92410482
 
 Upcoming seminars:
 
-- **27th April 2022, 9am PT, noon ET, 6pm CEST**: *Galaxy SED Forward Modeling for Photometric Surveys* with guests [Andrew P. Hearin](https://www.anl.gov/profile/andrew-p-hearin), [ChangHoon Hahn](https://changhoonhahn.github.io/), and [Justin Alsing](https://scholar.google.co.uk/citations?user=ICPFL8AAAAAJ&hl=en). 
+- **4th May 2022, 9am PT, noon ET, 6pm CEST**: *Galaxy SED Forward Modeling for Photometric Surveys* with guests [Andrew P. Hearin](https://www.anl.gov/profile/andrew-p-hearin), [ChangHoon Hahn](https://changhoonhahn.github.io/), and [Justin Alsing](https://scholar.google.co.uk/citations?user=ICPFL8AAAAAJ&hl=en). 
 
 
 Past seminars:
