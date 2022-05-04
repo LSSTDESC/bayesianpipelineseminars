@@ -12,3 +12,6 @@ Upcoming seminars:
 
 Past seminars:
 - **30th March 2022, 8am PT, 11am ET, 5pm CEST**: *Perspectives for Bayesian pipelines in DESC* with guests [Jens Jasche](https://www.su.se/english/profiles/jeja4711-1.368011) and [Carles Sánchez](https://carlessanchezalonso.github.io)
+
+
+Mailing list: Sign up [here](https://forms.gle/zPUK3cdtCC5aG2eH9) if you are interested to be added to our mailing list. 
