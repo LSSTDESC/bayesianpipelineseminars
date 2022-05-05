@@ -7,7 +7,7 @@ To join the seminar, follow this [zoom link](https://stanford.zoom.us/j/92410482
 
 Seminars:
 
-- **4th May 2022, 9am PT, noon ET, 6pm CEST**: *Galaxy SED Forward Modeling for Photometric Surveys* with guests [Andrew P. Hearin](https://www.anl.gov/profile/andrew-p-hearin), [ChangHoon Hahn](https://changhoonhahn.github.io/), and [Justin Alsing](https://scholar.google.co.uk/citations?user=ICPFL8AAAAAJ&hl=en) | **[Slides](https://docs.google.com/presentation/d/1uQidKB5XvidE8E6HPZ3deVjPoqHSN_fxJ5h-Hf0KMMw/edit?usp=sharing)** - **[Recording](https://stanford.zoom.us/rec/share/nRPpO7kiwKQvdEGJFDv1Kfo2qMNpxeqhXGOfkjFY1nUzLjg8ESVh_zGg0hLR_jqp.Za1wiuGmjMRSFtoj)**
+- **4th May 2022, 9am PT, noon ET, 6pm CEST**: *Galaxy SED Forward Modeling for Photometric Surveys* with guests [Andrew P. Hearin](https://www.anl.gov/profile/andrew-p-hearin), [ChangHoon Hahn](https://changhoonhahn.github.io/), and [Justin Alsing](https://scholar.google.co.uk/citations?user=ICPFL8AAAAAJ&hl=en) - **[Slides](https://docs.google.com/presentation/d/1uQidKB5XvidE8E6HPZ3deVjPoqHSN_fxJ5h-Hf0KMMw/edit?usp=sharing)** - **[Recording](https://stanford.zoom.us/rec/share/nRPpO7kiwKQvdEGJFDv1Kfo2qMNpxeqhXGOfkjFY1nUzLjg8ESVh_zGg0hLR_jqp.Za1wiuGmjMRSFtoj)**
 
 - **30th March 2022, 8am PT, 11am ET, 5pm CEST**: *Perspectives for Bayesian pipelines in DESC* with guests [Jens Jasche](https://www.su.se/english/profiles/jeja4711-1.368011) and [Carles Sánchez](https://carlessanchezalonso.github.io)
 
