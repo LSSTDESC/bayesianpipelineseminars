@@ -4,8 +4,9 @@ As part of the recently created LSST DESC Bayesian Pipelines Topical Team, we ar
 
 To join the seminar, follow this [zoom link](https://stanford.zoom.us/j/92410482859?pwd=STBNQXBrTS8yVGdydXJxVFViSGZOQT09).
 
+- **29th June 2022, 9am PT, noon ET, 6pm CEST**: *Pixel Level Modelling Methods* with guests [Jeffrey Regier](https://regier.stat.lsa.umich.edu/), [Michael Schneider](https://people.llnl.gov/schneider42), and [Francois Lanusse](https://flanusse.net/), discussion moderated by [Mike Jarvis](https://github.com/rmjarvis). 
 
-Seminars:
+Past Seminars:
 
 - **1st June 2022, 9am PT, noon ET, 6pm CEST**: *Inference methods for field-level cosmological analysis* with guests [Chirag Modi](https://modichirag.github.io), [Guilhem Lavaux](http://www2.iap.fr/users/lavaux/), and [Marius Millea](https://cosmicmar.com), discussion moderated by [Ben Wandelt](https://benwandelt.org) - **[Slides](https://docs.google.com/presentation/d/1j9S94U56HYO3epGMfK4pWzgcLvqkQ7wAaAUYauGfmow/edit?usp=sharing)** - **[Recording](https://stanford.zoom.us/rec/share/38OFZRJsAGUE2RFrWmjqcROEG04bbMj2N8HRwFHskiZWPMjP25P_MoLlCAmKt_R7.zwZtagf__YJDAjVm)**
  
